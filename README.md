@@ -1,4 +1,4 @@
-# BA Practice Suite 🎯
+# BA Practice Suite 
 
 An AI-powered SQL & Excel practice tool built for Business Analyst interview prep.
 
@@ -8,12 +8,12 @@ Live site: **[your-username.github.io/ba-practice-suite]()**
 
 ## What it does
 
-- ♾️ **Unlimited questions** — powered by Claude AI, every question is unique
-- 🗄️ **SQL track** — SELECT, JOINs, GROUP BY, subqueries, window functions
-- 📊 **Excel track** — VLOOKUP, IF/SUMIF, PivotTables, INDEX MATCH, dashboards
-- 📈 **Progress tracking** — streak, accuracy, session stats saved locally
-- 🎯 **Topic filters** — drill specific concepts you're weak on
-- ✅ **Instant feedback** — hints, solutions, explanations for every question
+-  **Unlimited questions** — powered by Claude AI, every question is unique
+-  **SQL track** — SELECT, JOINs, GROUP BY, subqueries, window functions
+-  **Excel track** — VLOOKUP, IF/SUMIF, PivotTables, INDEX MATCH, dashboards
+-  **Progress tracking** — streak, accuracy, session stats saved locally
+-  **Topic filters** — drill specific concepts you're weak on
+-  **Instant feedback** — hints, solutions, explanations for every question
 
 ---
 
@@ -33,7 +33,7 @@ Your site will be live at `https://your-username.github.io/ba-practice-suite` in
 3. Click **API Keys** → **Create key**
 4. Copy the key (starts with `sk-ant-`)
 
-> 💡 Cost: ~$0.003 per question. 100 questions ≈ ₹25.
+>  Cost: ~$0.003 per question. 100 questions ≈ ₹25.
 
 ### 4. Add your key to the app
 Open your live site → click **Settings** in the top right → paste your API key → **Save key**
@@ -50,14 +50,6 @@ That's it. Start generating questions!
 
 ---
 
-## Adding to your resume
-
-Under **Projects**, write:
-
-> **BA Practice Suite** | HTML · CSS · JS · Anthropic API | [link]
-> Built an AI-powered interview prep tool generating unlimited SQL and Excel questions for Business Analyst roles. Integrates Claude API for dynamic question generation with instant feedback, hint system, and progress tracking.
-
----
 
 ## Local development
 
